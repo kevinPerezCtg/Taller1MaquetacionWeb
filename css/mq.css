@@ -1,0 +1,31 @@
+@media screen and (max-width:991px){
+    .navbar-nav{
+        display: none !important;
+    }
+
+    #valores{
+        padding-top: 10px;
+    }
+
+    .libTitle, .texth6, .texth5{
+        display: none;
+    }
+
+    .libCat, .texth6peq, .texth5peq{
+        display: block;
+    }
+
+    .texth5, .texth6{
+        color: black;
+    }
+   
+}
+
+@media (min-width: 768px){
+    .col-md-5 {
+        flex: 0 0 auto;
+        width: 50%;
+    }
+}
+
+

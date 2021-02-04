@@ -1,0 +1,22 @@
+#nav{
+    background: #4e4e7e;
+}
+
+#valores{
+    padding-top: 340px;
+}
+
+#cantidad{
+    padding-left: 10px;
+}
+
+.libCat, .texth5peq, .texth6peq{
+    display: none;
+}
+
+.texth5, .texth6{
+    color:#0d6efd;
+}
+
+
+
